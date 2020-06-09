@@ -1,2 +1,2 @@
 # hellow-word
-just another repository
+hi gus,
